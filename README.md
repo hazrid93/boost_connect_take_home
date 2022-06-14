@@ -1,5 +1,5 @@
 # boost_connect_take_home
-Repo for interview candidate to open a PR
+A repository for potential candidates to open a PR for their solution.
 
 # Requirements
 The objective of the task is to create a JAVA or NodeJS application that will query the dummy API user information and scrape the comments for each user at https://dummyapi.io/explorer. These information’s would need to be stored into a database in a ‘users’ table with proper domain model and is kept up to date whenever the user comment changes (assuming it is possible the comment changes). 
